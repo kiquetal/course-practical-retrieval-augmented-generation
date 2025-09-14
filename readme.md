@@ -18,3 +18,7 @@
 
 
 #### Lesson 3:
+
+- A good prompt should work across different LLM's.
+- Few shot learning in context.
+
