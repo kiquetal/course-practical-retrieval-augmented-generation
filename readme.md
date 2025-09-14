@@ -21,4 +21,6 @@
 
 - A good prompt should work across different LLM's.
 - Few shot learning in context.
+- Chain of thoughts. Reason along the the response.
+
 
