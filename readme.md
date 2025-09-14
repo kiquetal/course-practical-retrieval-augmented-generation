@@ -10,4 +10,11 @@
 
 #### Lesson2:
 
-- 
+- About semantic search, exposed that prompt engineering feel like a bug.
+- The order to apply changes to your LLM pipeline should be:
+- prompt engineer
+- rag optimization
+- model fine-tuning.
+
+
+#### Lesson 3:
