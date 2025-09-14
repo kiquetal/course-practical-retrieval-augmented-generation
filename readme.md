@@ -1,6 +1,6 @@
 ### Course: Practical Retrieval Augmented Generation(RAG)
 
-#### Lesson1:
+#### Lesson 1:
 
 - Paper Attention is all you need
 - Auto-encoding, and auto-regression
@@ -8,7 +8,7 @@
 
 
 
-#### Lesson2:
+#### Lesson 2:
 
 - About semantic search, exposed that prompt engineering feel like a bug.
 - The order to apply changes to your LLM pipeline should be:
@@ -22,5 +22,7 @@
 - A good prompt should work across different LLM's.
 - Few shot learning in context.
 - Chain of thoughts. Reason along the the response.
+- Designing RAG propmts for consistency.
 
+#### Lesson 4:
 
